@@ -1,0 +1,64 @@
+History:-
+
+In 1991, Dr. W. Scott Stornetta published a whitepaper with his co-author Dr. Stuart Haber to introduce ‘blockchain’.
+The term blockchain can be defined as a decentralised, cryptic database on which digital transactions take place.
+
+Research paper title: “How to Time-Stamp a Digital Document” in 1991.
+
+From this paper, it can be observed that the following two properties are methods of time-stamping digital documents:
+1) Finding a way for automatic time-stamping, without relying on the characteristics of the data medium, making it impossible to change any part of the document without the change being very apparent.
+2) It would be impossible to stamp a document with a different time and date from the actual one.
+
+The next and certainly the most important Blockchain innovation was the Bitcoin. 
+Satoshi Nakamoto published a white-paper in 2008, titled “Bitcoin: A Peer to Peer Electronic Cash System”. 
+The paper mentioned that with peer-to-peer networking, there will be a solution to the problem of double spending in digital currency. 
+The paper was aimed at building a peer-to-peer digital currency version which would enable people to spend it directly without involving a financial institution. 
+It was a great development that allowed the user to make direct transactions without relying on a third party.
+
+The Evolution of the Blockchain- Generation 1 to 4
+1st Generation Blockchains focus on moving value, maintaining a ledger, ideal payment systems
+
+First Generation Blockchain Technology:
+Bitcoin’s Blockchain was achieved through the 1st Generation blockchain technology.
+
+All participants share the ledger in blockchain, making it a decentralized and distributed ledger. Rather than leaving 
+the record of all transactions to one central bank, everyone has a copy of the same ledger which is regularly updated. 
+Even if a single ledger is tampered with, it will not affect other ledgers because there will be no recording or validating.
+
+Now, why Bitcoin was created?
+
+The founder of Bitcoin, the mysterious Satoshi Nakamoto planned to remove Third-Party verification and intended to create a 
+trustless payment platform with transactions that can not be reversed. Such a system is helpful in private transactions, receiving 
+and providing financial aid to people residing in unstable countries with collapsing economies. Bitcoin is a currency with no borders.
+
+ Second generation blockchains are those like Ethereum, Ethereum Classic, NEO and QTUM to name a few. These are widely referred to 
+ as the second generation because they have made use of blockchain’s idea of recording transactions and expanded it to allow 
+ programming languages.
+ 
+ Second Generation Blockchain.
+ 
+ Ethereum is a good example of a second generation blockchain. Ethereum is based on applying authoritative rules for ownership, 
+ transaction formats and state transition functions, taking both the state of a blockchain and a transaction for that blockchain,
+ which in turn results into a new state. Ethereum is actually a platform that uses the currency Ether. The purpose of its platform 
+ is to draw up ‘smart contracts’ and conduct transactions, and these processes are fueled by the currency ether (ETH).
+ 
+ But what is a smart contract ? A smart contract is a coded contract that is subsequently uploaded to a blockchain. Whenever a contract 
+ is executed in a blockchain, every network node runs it and then uploads it to the blockchain.
+ In simpler terms, the smart contract is a coded ‘If-Then’ statement. That is, if certain requirements are met, the terms of the 
+ contract will be carried out. This process is not trust-based; it can never be tampered with by any party, nor can any party cheat 
+ and fail on its end of the deal. Introducing smart contract to the blockchain technology has many practical functions, as visibly
+ portrayed by the simple example of online shopping.
+ 
+ Third Generation Blockchain Technology.
+ 
+ Third generation blockchains present themselves as blockchains that can service massive amounts of people and self-govern. 
+ Third generation blockchains have self-governance at their core. E.g. Steem.
+ What third generation blockchains are capable of doing is to connect two or more blockchains like a computer network connection
+ 
+ Third generation blockchains can also function in layers. That way, one layer could handle contracts, one layer handles transactions 
+ and another layer passes secure data among blockchains. This is aimed at securing the blockchain and never slowing it down or 
+ compromising its performance. Blockchains like Ethereum gets compromised that way.
+ 
+ 
+ 
+ 
