@@ -1,1 +1,72 @@
 How does blockchain work?
+
+
+Cryptography
+Cryptography is a method of hiding information to keep its content safe and secret. To uncover the information, 
+the reader needs to know how the information has been modified, or encrypted. The encrypted message can, if properly 
+done, be read only by the sender and the recipient.
+
+Hash Function
+A hash is a set of numbers and letters, produced by hash functions. A hash function is a mathematical function that 
+takes a variable number of characters and converts it into a set with a fixed number of characters. Even a small change 
+in a set creates a totally new hash.
+
+A Merkle tree summarizes all the transactions in a block by producing a digital fingerprint of the entire set of transactions, 
+thereby enabling a user to verify whether or not a transaction is included in a block.
+Merkle trees are created by repeatedly hashing pairs of nodes until there is only one hash left (this hash is called the Root Hash, 
+or the Merkle Root). They are constructed from the bottom up, from hashes of individual transactions (known as Transaction IDs)
+Each leaf node is a hash of transactional data, and each non-leaf node is a hash of its previous hashes. Merkle trees are binary 
+and therefore require an even number of leaf nodes. If the number of transactions is odd, the last hash will be duplicated once to 
+create an even number of leaf nodes
+
+NONCE
+A nonce is an abbreviation for "number only used once," which is a number added to a hashed—or encrypted—block in a blockchain that, 
+when rehashed, meets the difficulty level restrictions. The nonce is the number that blockchain miners are solving for. When the 
+solution is found, the blockchain miners are offered cryptocurrency in exchange.
+
+NODES
+Computers are called nodes. and every time a transaction occurs it has to be approved by the nodes, each of whom checks its validity. 
+A form of electric vote occurs once every node has checked a transaction, because some nodes may think the transaction is valid while
+others may think it is a fraud.
+
+Each node (computers) has a copy of the digital ledger or Blockchain, therefore each node checks the validity of each transaction. 
+If a majority of nodes say that a transaction is valid then it is written into a block.
+
+Block
+A block is a one spreadsheet but the whole family of blocks is the Blockchain and every node has a copy of the Blockchain. 
+Once a block reaches a certain number of approved transactions, then a new block is formed.
+
+The Blockchain automatically updates itself every ten minutes. No master or central computer is needed to instruct the computers 
+to do this.
+Immediately the spreadsheet or ledger or registry is updated, it can no longer be altered. Thus, it is impossible to forge but 
+can only add new entries to it. The registry is updated on all computers on the network at the same time.
+
+Important points:
+
+A Blockchain is a type of diary or spreadsheet containing information about transactions.
+
+Each transaction generates a hash.
+
+A hash is a string of numbers and letters.
+
+Transactions are entered in the order in which they occurred. Order is very important.
+
+The hash depends not only on the transaction but the previous transaction's hash.
+
+Even a small change in a transaction creates a completely new hash.
+
+The nodes check to make sure a transaction has not been changed by inspecting the hash.
+
+If a transaction is approved by a majority of the nodes then it is written into a block.
+
+Each block refers to the previous block and together make the Blockchain.
+
+A Blockchain is effective as it is spread over many computers, each of which have a copy of the blockchain.
+
+These computers are called nodes
+
+The Blockchain updates itself every 10 minutes.
+
+
+
+
