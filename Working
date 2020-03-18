@@ -67,6 +67,51 @@ These computers are called nodes
 
 The Blockchain updates itself every 10 minutes.
 
+What is a wallet?
+A wallet is a string of numbers and letters,such as 18c177926650e5550973303c300e136f22673b74. 
+This is an address that will appear in different blocks within the Blockchain as transactions take place. 
+There will be no visible records of who did the transaction or with whom it was done, only the number of a wallet. 
+The address of individual wallet is also a public key.
+
+Digital signature
+You need two things in order to carry out a transaction: a wallet, which is mainly an address, and a private key. 
+The private key is also a string of random numbers, but this private key must be kept secret unlike the address.
+When someone decides to send coins to anybody, they must sign the message containing the transaction with their private key.
+
+What are cryptographic keys?
+A cryptographic key is simply a string of numbers and letters which are made by key generators also known as keygens.
+These keygens make use of a very advanced mathematics involving prime numbers to create these keys.
+
+Protocols
+The Blockchain comprises of individual behaviour specifications and a large set of rules that are programmed into it. 
+Those specifications are referred to as protocols. The implementation of individual protocols basically made Blockchain 
+what it is (a distributed, peer-to-peer and secured information database).
+
+->Listed below are few samples of protocols implemented in Blockchain:
+
+-Input data for every hash number has to include the previous block’s hash number.
+
+-After every 210,000 blocks are sealed-off, the reward for successfully mining a block decreases by half.
+
+-Mining difficulty is recalculated every 2,016 blocks so that the amount of time needed to mine one block can be kept at approximately 
+10 minutes.
+
+The placing of a transaction in a block is known as a successful conclusion to a proof of work challenge, and is 
+carried out by special nodes called miners.
+
+
+Proof of Work is a structure that requires some work from the service requester, which usually means the processing time by a computer.
+Producing a proof of work is a random process with low probability, so it involves a lot of trial and error to generate a valid proof 
+of work. In Bitcoins, hash is what represent the proof of work.
+
+What is mining?
+In Blockchain, miners are nodes that generate blocks by solving proof of work problems. If a miner generates a block that
+is accepted by an electronic consensus of nodes, then the miner is rewarded with coins. As of October 2017, Bitcoin miners get 
+12.5 Bitcoins per block.
+
+
+
+
 
 
 
