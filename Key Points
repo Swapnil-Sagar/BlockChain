@@ -1,0 +1,31 @@
+Important points
+
+If you possess digital money then you need a digital wallet.
+
+A wallet is an address on the Blockchain.
+
+A wallet is a public key.
+
+Someone wanting to conduct a transaction must send a message with the transaction signed with their private key.
+
+Before a transaction is approved it is checked by every node who vote on it in a special electronic way that is different to the elections that most countries have.
+
+A transaction is placed in a block by miners who are special nodes.
+
+The computers in the network holding the Blockchain are called nodes.
+
+Miners place transactions in blocks in response to proof of work challenges.
+
+After miners successfully 'seal off' a block of transaction, they receive a reward, which currently stands at 12.5 BTC, and they also get to keep a transaction fees Bitcoin holders pay.
+
+Interaction is carried out on a Blockchain using rules built into the program of the Blockchain called protocols.
+
+Cryptography is essential on Blockchains to thwart thieves who would like to hack into the Blockchain.
+
+Cryptographic keys are made by key generators or keygens.
+
+Keygens use very advanced mathematics involving prime numbers to create keys.
+
+A block contains a timestamp, a reference to the previous block, the transactions and the computational problem that had to be solved before the block went on the Blockchain.
+
+The distributed network of nodes that need to reach consensus makes fraud almost impossible within the Blockchain.
