@@ -1,0 +1,80 @@
+
+In order to interact and transact with Bitcoin, you will need a bitcoin wallet. A Bitcoin wallet will enable you to receive, 
+transfer and store Bitcoins.
+Once you install or create your Bitcoin wallet, it will generate a public Bitcoin address, public key and private key. 
+When transacting with Bitcoin, you should never let people know your private key, as doing so will enable others to gain 
+access to your Bitcoin wallet. Always store the private key in a safe place. In theory, you can create as many Bitcoin 
+wallet address as you like, as long as you are able to keep a backup 
+of all of your private keys.
+
+
+The technological architecture of a Bitcoin blockchain is more complex, it comprises of:
+
+1.Distributed ledger
+2.Consensus algorithm
+3.Cryptography
+
+
+Distributed ledger
+
+  The Bitcoin blockchain is a shared public ledger on which all the transactions of the Bitcoin network are verified, 
+  confirmed, recorded and made transparent to the public. You could actually look at the confirmed transactions through 
+  the Bitcoin blockchain explorer.
+  
+  From the blockchain explorer, you can see the sender, receiver, timestamp, miner and amount of Bitcoin in any single 
+  transaction.
+  
+  A distributed ledger is a database that is consensually shared and synchronized across multiple sites, institutions 
+  or geographies. It allows transactions to have public "witnesses," thereby making a cyberattack more difficult. 
+  The participant at each node of the network can access the recordings shared across that network and can own an 
+  identical copy of it.
+  
+  
+Consensus algorithm
+  Mining
+    Mining is a distributed consensus system that is used to confirm pending transactions by including them in the 
+    block chain. It enforces a chronological order in the blockchain, protects the neutrality of the network, and 
+    allows different computers to agree on the state of the system. To be confirmed, transactions must be packed 
+    in a block that fits very strict cryptographic rules that will be verified by the network. These rules prevent 
+    previous blocks from being modified because doing so would invalidate all the subsequent blocks. Mining also 
+    creates the equivalent of a competitive lottery that prevents any individual from easily adding new blocks 
+    consecutively to the blockchain. In this way, no group or individuals can control what is included in the block 
+    chain or replace parts of the blockchain to roll back their own spends.
+    
+    
+ Cryptography
+  The two cryptographic concepts used in the Bitcoin blockchain, and in any blockchain in general, are hashing and 
+  public-private key cryptography.
+  
+  
+What is Bitcoin Cash ?
+Bitcoin cash is a cryptocurrency created in August 2017, arising from a fork of Bitcoin Classic.
+Bitcoin Cash increases the size of blocks, allowing more transactions to be processed.
+
+Bitcoin Cash differs from Bitcoin Classic in that it increases the block size from 1 MB to 8 MB. 
+It also removes Segregated Witness (SegWit), a proposed code adjustment designed to free up block 
+space by removing certain parts of the transaction. The goal of Bitcoin Cash is to increase the 
+number of transactions that can be processed.
+
+
+What is Soft Fork ?
+Whenever a chain needs to be updated there are two ways of doing that: a soft fork or a hard fork.
+In terms of blockchain technology, a soft fork (or sometimes softfork) is a change to the software 
+protocol where only previously valid blocks/transactions are made invalid. Since old nodes will 
+recognize the new blocks as valid, a soft fork is backward-compatible. This kind of fork requires 
+only a majority of the miners upgrading to enforce the new rules, as opposed to a hard fork that 
+requires all nodes to upgrade and agree on the new version.
+
+What is Hard Fork ?
+A hard fork (or hardfork), as it relates to blockchain technology, is a radical change to a network's 
+protocol that makes previously invalid blocks and transactions valid, or vice-versa. A hard fork requires 
+all nodes or users to upgrade to the latest version of the protocol software.
+
+What is Pre-Mine?
+  Premining is the mining or creation of a number of cryptocurrency coins before the cryptocurrency is 
+  launched to the public. Premining should not be confused with Premine, an alternate cryptocurrency 
+  with the currency symbol PMC.
+  
+What is Cloud Mining
+Cloud mining is the process of buying CPU power from dedicated data centers who use their own equipment 
+to mine cryptocurrencies such as Bitcoin (BTC) on your behalf.
