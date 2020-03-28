@@ -1,0 +1,19 @@
+Private keys
+In order to keep your wallet secure, Bitcoin wallets store a secret piece of data called a private key or seed.
+This private key is then used to sign transactions, providing a mathematical proof that they have come from the 
+owner of the wallet. We call this a cryptographic signature.
+
+Hashing
+A hashing algorithm converts a string of any size into a string of predefined size (e.g. 256 bytes). It is one-way, 
+meaning when provided with the hash, no can deduce the original string (this is true only if the hash size is 
+significantly big - 256 or 512 bytes). Bitcoin uses SHA256 hashing algorithm and uses for two purposes.
+
+Private key: The private key consists of alphabetic numeric characters that gives a user access and control 
+over their funds to their corresponding cryptocurrency address. The private key is used to sign transactions 
+that allow the user to spend their funds.
+
+Public key: Bitcoin uses digital signatures for user authorisation. Each node generates a public-private key pair. 
+It uses the public key as its network address and the private key to sign blocks/transactions. To check if the node/user
+has authorised any transaction/block, you have to verify the digital signature using the node’s public key. It is not 
+possible to deduce the private key from the public key, hence this node-alias mechanism is secure. Bitcoin uses ECDSA 
+encryption.
