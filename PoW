@@ -1,0 +1,17 @@
+What is proof of work
+Proof-of-Work, or PoW, is the original consensus algorithm in a Blockchain network.
+
+In Blockchain , this algorithm is used to confirm transactions and produce new blocks to the chain. With PoW, 
+miners compete against each other to complete transactions on the network and get rewarded.
+
+Mathematical puzzle in blockchain
+It’s an issue that requires a lot of computational power to solve.
+
+There are a lot of them, for instance:
+
+hash function, or how to find the input knowing the output.
+integer factorization, in other words, how to present a number as a multiplication of two other numbers.
+guided tour puzzle protocol. If the server suspects a DoS attack, it requires a calculation of hash functions, 
+for some nodes in a defined order. In this case, it’s a ‘how to find a chain of hash function values’ problem.
+
+The answer to the PoW problem or mathematical equation is called hash.
