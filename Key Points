@@ -29,3 +29,5 @@ Keygens use very advanced mathematics involving prime numbers to create keys.
 A block contains a timestamp, a reference to the previous block, the transactions and the computational problem that had to be solved before the block went on the Blockchain.
 
 The distributed network of nodes that need to reach consensus makes fraud almost impossible within the Blockchain.
+
+Consensus is the mecahnisim used to agree on the state of a blockchain.
